@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/photos"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/photos" />
+        <item
+            android:id="@+id/music"
+            android:icon="@android:drawable/stat_sys_headset"
+            android:title="@string/music" />
+        <item
+            android:id="@+id/movie"
+            android:icon="@android:drawable/presence_video_online"
+            android:title="@string/movie" />
+        <item
+            android:id="@+id/download"
+            android:icon="@android:drawable/stat_sys_upload_done"
+            android:title="@string/download" />
+        <item
+            android:id="@+id/root"
+            android:icon="@android:drawable/stat_notify_sdcard_prepare"
+            android:title="@string/root_directory" />
+        <item
+            android:id="@+id/internal"
+            android:icon="@android:drawable/stat_notify_sdcard_prepare"
+            android:title="@string/internal_storage" />
+        <item
+            android:id="@+id/external"
+            android:icon="@android:drawable/stat_notify_sdcard_prepare"
+            android:title="@string/external_storage" />
+    </group>
+</menu>

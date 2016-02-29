@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\file_manager_ap.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\mipmap-hdpi\\file_manager_ap.png"
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\js.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\js.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xls.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\xls.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_txt.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\default_txt.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\external_storage.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\external_storage.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\html.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\html.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\move.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\move.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\swf.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\swf.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xml.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\xml.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mp3.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\mp3.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\svg.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\svg.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\empty_folder.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\empty_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_video.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\default_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flv.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\flv.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ppt.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\php.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\php.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spreadsheets.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\spreadsheets.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zip_folder.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\zip_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wav.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\wav.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iso.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\iso.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_image.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mpeg.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\mpeg.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pdf.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gif.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\gif.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exe.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\exe.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fw.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\fw.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiff.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\tiff.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jar.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\jar.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_powerpoint.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\default_powerpoint.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_word.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\default_word.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\defoult.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\defoult.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\internal_storage.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\internal_storage.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_vpn_key_black_24dp.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\ic_vpn_key_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\ico.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sd_storage_black_24dp.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\ic_sd_storage_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\txt.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\txt.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\psd.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\psd.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\png.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\png.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gz.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\gz.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_exel.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\default_exel.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mp4.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\mp4.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ps.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\ps.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mov.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\mov.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_audio.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\default_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\side_nav_bar.xml",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sys.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\drawable-hdpi\\sys.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    }
+]

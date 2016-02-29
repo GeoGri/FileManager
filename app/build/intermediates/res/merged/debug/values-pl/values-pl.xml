@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"WŁ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="about_application">O aplikacji</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="app_name">Menadżer plików</string>
+    <string name="author_address">grzegorz1wojda@gmail.com</string>
+    <string name="cancel">Anuluj operacje</string>
+    <string name="change_name">Zmień nazwę</string>
+    <string name="communicate">Komunikacja</string>
+    <string name="compress">Spakuj</string>
+    <string name="copy">Kopiuj (do schowka)</string>
+    <string name="copy_complete">Kopiowanie zakończone</string>
+    <string name="copy_fail">Kopiowanie zakóńczone niepowodzeniem</string>
+    <string name="copying">Kopiowanie</string>
+    <string name="copying_root">Kopiowanie na prawach root</string>
+    <string name="created">Utworzono</string>
+    <string name="cut">Wytnij (do schowka)</string>
+    <string name="cut_complete">Wklejanie zakończone</string>
+    <string name="cut_fail">Wklejanie zakończone niepowodzeniem</string>
+    <string name="cutting">Wycinanie</string>
+    <string name="cutting_with_root">Wycinanie z prawem root</string>
+    <string name="delete">Usuń</string>
+    <string name="deleted">Plik usunięto</string>
+    <string name="deleting">Usuwanie</string>
+    <string name="double_back_press">Naciśnij jeszcze raz by zamknąć aplikację.</string>
+    <string name="download">Pobrane</string>
+    <string name="elements">Elementy</string>
+    <string name="empty_row">Plik jest pusty</string>
+    <string name="external_storage">Pamięć zewnętrzna</string>
+    <string name="files">pliki</string>
+    <string name="folder">folder</string>
+    <string name="folder_not_created">Folder nie został utworzony</string>
+    <string name="folders">Foldery</string>
+    <string name="from">Z:</string>
+    <string name="internal_storage">Pamięć wewnętrzna</string>
+    <string name="localization">Lokalizacja</string>
+    <string name="modification_time">Czas modyfikacji</string>
+    <string name="movie">Filmy</string>
+    <string name="music">Muzyka</string>
+    <string name="name">Nazwa</string>
+    <string name="navigation_drawer_close">Zamknij pasek nawigacji</string>
+    <string name="navigation_drawer_open">Otwórz pasek nawigacji</string>
+    <string name="new_folder">Nowy folder</string>
+    <string name="no_app_to_open">Brak applikacji mogącej otworzyć ten plik</string>
+    <string name="no_applications">Brak aplikacji</string>
+    <string name="no_root_or_this_is_a_system_folder">Brak prawa root, lub jesteś w ścieżce systemowej. Skontaktuj się z administratorem jeśli musiz coś zrobic w tym miejscu.</string>
+    <string name="no_sd_card">Brak karty pamięci</string>
+    <string name="ok">OK</string>
+    <string name="open_with">Otwórz za pomocą</string>
+    <string name="options">Opcje</string>
+    <string name="permissions">Uprawnienia</string>
+    <string name="photos">Zdjęcia</string>
+    <string name="properties">Właściwości</string>
+    <string name="rename_to">Zmień nazwę</string>
+    <string name="renamed">Nazwa została zmieniona</string>
+    <string name="root_directory">Główny katalog systemu</string>
+    <string name="root_rights">Brak prawa root</string>
+    <string name="save_storage">Bezpieczna pamięć</string>
+    <string name="sd_card">Karta SD</string>
+    <string name="selected">Zaznaczono</string>
+    <string name="send">Wyślij</string>
+    <string name="share">Udostępnij</string>
+    <string name="shortcut">Utwórz skrut na ekranie</string>
+    <string name="shortcut_add">Skrót został utworzony</string>
+    <string name="size">Rozmiar</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="to">Do:</string>
+    <string name="tools">Narzędzia</string>
+    <string name="type">Typ</string>
+    <string name="wait">Czekaj…</string>
+</resources>

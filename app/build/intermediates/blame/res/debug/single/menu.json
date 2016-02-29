@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_option.xml",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\menu\\menu_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\file_manager_main_fragment.xml",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\menu\\file_manager_main_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\file_manager_main.xml",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\menu\\file_manager_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_file_manager_main_drawer.xml",
+        "source": "C:\\Users\\Grzegorz Wojda\\AndroidStudioProjects\\FileManager\\app\\src\\main\\res\\menu\\activity_file_manager_main_drawer.xml"
+    }
+]
